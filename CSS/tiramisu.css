@@ -1,0 +1,22 @@
+body{
+    background-color: #dddead;
+}
+h1{
+    color: rgb(44, 117, 10);
+    font-style: italic;
+    font-weight: bold;
+    font-size:larger 100px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    white-space: normal;
+    background-color: bisque;
+    text-align: center;
+}
+a{
+    color: rgb(2, 17, 17);
+    text-decoration: dashed;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container img{
+    max-width: 300px;
+    max-height: 200px;
+}
